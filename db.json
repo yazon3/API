@@ -1,0 +1,10 @@
+{
+  "cars": [
+    { "id": 1, "mark": "Opel", "model": "Astra", "version": "G" },
+    { "id": 2, "mark": "Opel", "model": "Astra", "version": "H" },
+    { "id": 3, "mark": "Ford", "model": "Fusion", "version": "?" }
+  ],
+  "profile": {
+    "name": "?"
+  }
+}
